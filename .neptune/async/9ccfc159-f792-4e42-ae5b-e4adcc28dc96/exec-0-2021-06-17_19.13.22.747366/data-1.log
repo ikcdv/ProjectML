@@ -1,0 +1,146 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "iwona-VirtualBox"}, "version": 3}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stdout"]}, "version": 4}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stderr"]}, "version": 5}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "psutil is not installed. Hardware metrics will not be collected.\n", "step": null, "ts": 1623950002.964135}]}, "version": 6}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b''", "step": null, "ts": 1623950002.9915802}]}, "version": 7}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b'https://app.neptune.ai/ikarpicka/ProjectML/e/PROJ-1\\n'", "step": null, "ts": 1623950002.9920523}]}, "version": 8}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950268.0225275}]}, "version": 9}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950268.0241618}]}, "version": 10}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950268.0588884}]}, "version": 11}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950268.0634668}]}, "version": 12}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950268.0887754}]}, "version": 13}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950268.09104}]}, "version": 14}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950268.4542446}]}, "version": 15}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950268.4546385}]}, "version": 16}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950268.6605637}]}, "version": 17}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950268.660976}]}, "version": 18}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950269.3944213}]}, "version": 19}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950269.397201}]}, "version": 20}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950272.372691}]}, "version": 21}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950272.373043}]}, "version": 22}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950275.9529943}]}, "version": 23}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950275.9534104}]}, "version": 24}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950284.8827274}]}, "version": 25}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950284.8854253}]}, "version": 26}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950287.361274}]}, "version": 27}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950287.363241}]}, "version": 28}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950331.0891786}]}, "version": 29}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950331.0895624}]}, "version": 30}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950563.0786135}]}, "version": 31}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950563.0809515}]}, "version": 32}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950563.5912457}]}, "version": 33}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950563.5916977}]}, "version": 34}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950565.9297252}]}, "version": 35}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950565.930128}]}, "version": 36}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "<class 'pandas.core.frame.DataFrame'>\nRangeIndex: 3750 entries, 0 to 3749\nColumns: 10000 entries, 0 to 9999\ndtypes: float64(10000)\nmemory usage: 286.1 MB\n", "step": null, "ts": 1623950571.6276944}]}, "version": 37}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950595.789313}]}, "version": 38}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950595.7900465}]}, "version": 39}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "<class 'pandas.core.frame.DataFrame'>\nRangeIndex: 1250 entries, 0 to 1249\nColumns: 10000 entries, 0 to 9999\ndtypes: float64(10000)\nmemory usage: 95.4 MB\n", "step": null, "ts": 1623950599.4455853}]}, "version": 40}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950722.2831259}]}, "version": 41}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950722.2835298}]}, "version": 42}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950722.8543253}]}, "version": 43}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950722.8547328}]}, "version": 44}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950730.857635}]}, "version": 45}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950730.857972}]}, "version": 46}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950733.5519547}]}, "version": 47}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950733.552529}]}, "version": 48}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950736.337456}]}, "version": 49}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950736.338023}]}, "version": 50}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950741.931944}]}, "version": 51}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950741.9327693}]}, "version": 52}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950742.4474545}]}, "version": 53}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950742.4477744}]}, "version": 54}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950777.5911715}]}, "version": 55}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950777.5915577}]}, "version": 56}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950778.0504997}]}, "version": 57}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950778.0508823}]}, "version": 58}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950779.4750185}]}, "version": 59}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950779.4753983}]}, "version": 60}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950786.7627637}]}, "version": 61}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950786.763284}]}, "version": 62}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950790.6382854}]}, "version": 63}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950790.6387045}]}, "version": 64}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950791.410314}]}, "version": 65}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950791.4106963}]}, "version": 66}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950791.659703}]}, "version": 67}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950791.660035}]}, "version": 68}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950792.1434596}]}, "version": 69}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950792.143838}]}, "version": 70}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950792.3910265}]}, "version": 71}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950792.3914618}]}, "version": 72}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950792.9745533}]}, "version": 73}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950792.9768233}]}, "version": 74}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950795.5133772}]}, "version": 75}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950795.5151045}]}, "version": 76}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 10000)", "step": null, "ts": 1623950796.3442678}]}, "version": 77}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1623950796.344686}]}, "version": 78}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(1250, 10000)", "step": null, "ts": 1623950796.3449652}]}, "version": 79}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1623950796.345234}]}, "version": 80}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 1)", "step": null, "ts": 1623950796.3470714}]}, "version": 81}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950796.3497877}]}, "version": 82}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623950969.7458322}]}, "version": 83}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623950969.7470133}]}, "version": 84}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623951028.3990924}]}, "version": 85}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951028.3995304}]}, "version": 86}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "Populating the interactive namespace from numpy and matplotlib", "step": null, "ts": 1623951067.2773657}]}, "version": 87}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951067.279942}]}, "version": 88}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns']", "step": null, "ts": 1623951111.6546884}]}, "version": 89}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951111.656501}]}, "version": 90}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "Populating the interactive namespace from numpy and matplotlib", "step": null, "ts": 1623951112.1512797}]}, "version": 91}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951112.1518614}]}, "version": 92}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split']", "step": null, "ts": 1623951114.4034498}]}, "version": 93}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951114.4038105}]}, "version": 94}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split']", "step": null, "ts": 1623951115.3353436}]}, "version": 95}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951115.337146}]}, "version": 96}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split']", "step": null, "ts": 1623951119.8395488}]}, "version": 97}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951119.839946}]}, "version": 98}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623951593.8280435}]}, "version": 99}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623951593.828445}]}, "version": 100}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623953391.519368}]}, "version": 101}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623953391.5197518}]}, "version": 102}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "Error in callback <function install_repl_displayhook.<locals>.post_execute at 0x7f5bb96e6d30> (for post_execute):", "step": null, "ts": 1623955949.9848535}]}, "version": 103}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955949.989565}]}, "version": 104}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "Error in callback <function flush_figures at 0x7f5bb9f67a60> (for post_execute):", "step": null, "ts": 1623955956.0382104}]}, "version": 105}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.0385923}]}, "version": 106}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.1344578}]}, "version": 107}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.1348572}]}, "version": 108}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.2068233}]}, "version": 109}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.2103467}]}, "version": 110}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.2420874}]}, "version": 111}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.2424378}]}, "version": 112}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.2636158}]}, "version": 113}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.2639458}]}, "version": 114}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.2964516}]}, "version": 115}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.2967796}]}, "version": 116}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.358408}]}, "version": 117}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.358788}]}, "version": 118}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.3828602}]}, "version": 119}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.383201}]}, "version": 120}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.404415}]}, "version": 121}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.404797}]}, "version": 122}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.42761}]}, "version": 123}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.4279268}]}, "version": 124}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.4691644}]}, "version": 125}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.4700887}]}, "version": 126}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.489181}]}, "version": 127}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.4894962}]}, "version": 128}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.5132842}]}, "version": 129}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.5136106}]}, "version": 130}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.5646544}]}, "version": 131}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.5650063}]}, "version": 132}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955956.6505575}]}, "version": 133}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955956.6509588}]}, "version": 134}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955967.8455727}]}, "version": 135}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955967.847484}]}, "version": 136}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955967.8715296}]}, "version": 137}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955967.8719254}]}, "version": 138}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955967.9017794}]}, "version": 139}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955967.9021595}]}, "version": 140}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955967.9225998}]}, "version": 141}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955967.9259553}]}, "version": 142}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955967.9394186}]}, "version": 143}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955967.9397507}]}, "version": 144}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['X_test', 'X_train', 'check_missing', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'run', 'sns', 'train_test_split', 'y_test', 'y_train']", "step": null, "ts": 1623955968.0974092}]}, "version": 145}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1623955968.099207}]}, "version": 146}

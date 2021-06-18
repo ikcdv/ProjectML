@@ -1,0 +1,14 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "iwona-VirtualBox"}, "version": 3}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stdout"]}, "version": 4}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stderr"]}, "version": 5}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "psutil is not installed. Hardware metrics will not be collected.\n", "step": null, "ts": 1624028428.9696803}]}, "version": 6}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b''", "step": null, "ts": 1624028429.0062616}]}, "version": 7}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b'https://app.neptune.ai/ikarpicka/ProjectML/e/PROJ-8\\n'", "step": null, "ts": 1624028429.0067234}]}, "version": 8}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 10000)", "step": null, "ts": 1624028837.618686}]}, "version": 9}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1624028837.6262567}]}, "version": 10}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(1250, 10000)", "step": null, "ts": 1624028837.6268423}]}, "version": 11}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1624028837.6270921}]}, "version": 12}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 1)", "step": null, "ts": 1624028837.6273637}]}, "version": 13}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624028837.6276057}]}, "version": 14}

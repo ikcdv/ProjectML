@@ -1,0 +1,237 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "iwona-VirtualBox"}, "version": 3}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stdout"]}, "version": 4}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stderr"]}, "version": 5}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "psutil is not installed. Hardware metrics will not be collected.\n", "step": null, "ts": 1624031650.7256942}]}, "version": 6}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b''", "step": null, "ts": 1624031650.739051}]}, "version": 7}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b'https://app.neptune.ai/ikarpicka/ProjectML/e/PROJ-9\\n'", "step": null, "ts": 1624031650.7396278}]}, "version": 8}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.3386178}]}, "version": 9}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.339235}]}, "version": 10}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.3566556}]}, "version": 11}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.3569708}]}, "version": 12}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.4204905}]}, "version": 13}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.4214444}]}, "version": 14}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.4375186}]}, "version": 15}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.4382167}]}, "version": 16}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.6827009}]}, "version": 17}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.6830096}]}, "version": 18}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.706975}]}, "version": 19}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.7074025}]}, "version": 20}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.7303922}]}, "version": 21}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.7308173}]}, "version": 22}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.7903087}]}, "version": 23}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.7907627}]}, "version": 24}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.8164642}]}, "version": 25}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.8169203}]}, "version": 26}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.8373675}]}, "version": 27}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.8378234}]}, "version": 28}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.8645303}]}, "version": 29}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.8651361}]}, "version": 30}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.882785}]}, "version": 31}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.8832028}]}, "version": 32}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031756.9912536}]}, "version": 33}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031756.9920819}]}, "version": 34}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031757.0104144}]}, "version": 35}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031757.0109153}]}, "version": 36}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031757.0316737}]}, "version": 37}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031757.032278}]}, "version": 38}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031757.0658617}]}, "version": 39}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031757.0663908}]}, "version": 40}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031759.2681231}]}, "version": 41}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031759.2721324}]}, "version": 42}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031836.9663815}]}, "version": 43}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031836.9669547}]}, "version": 44}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031836.9824374}]}, "version": 45}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031836.9830103}]}, "version": 46}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031836.9973352}]}, "version": 47}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031836.9979486}]}, "version": 48}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.0177977}]}, "version": 49}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.0183375}]}, "version": 50}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.0444036}]}, "version": 51}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.0448577}]}, "version": 52}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.0622115}]}, "version": 53}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.0627015}]}, "version": 54}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.092732}]}, "version": 55}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.0931635}]}, "version": 56}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.1110623}]}, "version": 57}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.1114929}]}, "version": 58}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['debugpy', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624031837.1525354}]}, "version": 59}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624031837.153145}]}, "version": 60}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Exception in thread ", "step": null, "ts": 1624032072.3739934}]}, "version": 61}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Thread-5", "step": null, "ts": 1624032072.3858926}]}, "version": 62}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ":\n", "step": null, "ts": 1624032072.3976097}]}, "version": 63}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032072.409017}]}, "version": 64}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connection.py\", line 169, in _new_conn\n", "step": null, "ts": 1624032072.422726}]}, "version": 65}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.423797}]}, "version": 66}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "conn = connection.create_connection(", "step": null, "ts": 1624032072.425434}]}, "version": 67}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.4262788}]}, "version": 68}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/util/connection.py\", line 96, in create_connection\n", "step": null, "ts": 1624032072.4377246}]}, "version": 69}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.442265}]}, "version": 70}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise err", "step": null, "ts": 1624032072.4455242}]}, "version": 71}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.45858}]}, "version": 72}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/util/connection.py\", line 86, in create_connection\n", "step": null, "ts": 1624032072.4645445}]}, "version": 73}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.4708576}]}, "version": 74}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "sock.connect(sa)", "step": null, "ts": 1624032072.4941635}]}, "version": 75}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.5132585}]}, "version": 76}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "OSError", "step": null, "ts": 1624032072.5323145}]}, "version": 77}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ": ", "step": null, "ts": 1624032072.566815}]}, "version": 78}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "[Errno 101] Network is unreachable", "step": null, "ts": 1624032072.5930297}]}, "version": 79}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.6344674}]}, "version": 80}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\nDuring handling of the above exception, another exception occurred:\n\n", "step": null, "ts": 1624032072.6459358}]}, "version": 81}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032072.646439}]}, "version": 82}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connectionpool.py\", line 699, in urlopen\n", "step": null, "ts": 1624032072.6641836}]}, "version": 83}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.6819758}]}, "version": 84}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "httplib_response = self._make_request(", "step": null, "ts": 1624032072.6992815}]}, "version": 85}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.7005708}]}, "version": 86}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connectionpool.py\", line 382, in _make_request\n", "step": null, "ts": 1624032072.7067623}]}, "version": 87}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.7355728}]}, "version": 88}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self._validate_conn(conn)", "step": null, "ts": 1624032072.7467422}]}, "version": 89}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.7633402}]}, "version": 90}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connectionpool.py\", line 1010, in _validate_conn\n", "step": null, "ts": 1624032072.7752457}]}, "version": 91}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.792931}]}, "version": 92}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "conn.connect()", "step": null, "ts": 1624032072.8319523}]}, "version": 93}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.8430376}]}, "version": 94}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connection.py\", line 353, in connect\n", "step": null, "ts": 1624032072.849005}]}, "version": 95}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.8659549}]}, "version": 96}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "conn = self._new_conn()", "step": null, "ts": 1624032072.8770363}]}, "version": 97}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.888264}]}, "version": 98}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connection.py\", line 181, in _new_conn\n", "step": null, "ts": 1624032072.8941627}]}, "version": 99}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032072.9107018}]}, "version": 100}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise NewConnectionError(", "step": null, "ts": 1624032072.9223893}]}, "version": 101}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032072.9337256}]}, "version": 102}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "urllib3.exceptions", "step": null, "ts": 1624032072.9395378}]}, "version": 103}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ".", "step": null, "ts": 1624032072.9564157}]}, "version": 104}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "NewConnectionError", "step": null, "ts": 1624032072.9679158}]}, "version": 105}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ": ", "step": null, "ts": 1624032072.9849892}]}, "version": 106}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "<urllib3.connection.HTTPSConnection object at 0x7fd32dff49a0>: Failed to establish a new connection: [Errno 101] Network is unreachable", "step": null, "ts": 1624032072.996659}]}, "version": 107}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.008432}]}, "version": 108}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\nDuring handling of the above exception, another exception occurred:\n\n", "step": null, "ts": 1624032073.0196185}]}, "version": 109}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032073.0430021}]}, "version": 110}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/requests/adapters.py\", line 439, in send\n", "step": null, "ts": 1624032073.059948}]}, "version": 111}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.0723383}]}, "version": 112}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "resp = conn.urlopen(", "step": null, "ts": 1624032073.0895584}]}, "version": 113}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.1060436}]}, "version": 114}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/connectionpool.py\", line 755, in urlopen\n", "step": null, "ts": 1624032073.117693}]}, "version": 115}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.1348066}]}, "version": 116}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "retries = retries.increment(", "step": null, "ts": 1624032073.1464942}]}, "version": 117}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.163593}]}, "version": 118}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/urllib3/util/retry.py\", line 574, in increment\n", "step": null, "ts": 1624032073.174768}]}, "version": 119}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.192289}]}, "version": 120}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise MaxRetryError(_pool, url, error or ResponseError(cause))", "step": null, "ts": 1624032073.2035224}]}, "version": 121}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.220506}]}, "version": 122}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "urllib3.exceptions", "step": null, "ts": 1624032073.2376657}]}, "version": 123}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ".", "step": null, "ts": 1624032073.2724886}]}, "version": 124}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "MaxRetryError", "step": null, "ts": 1624032073.2842567}]}, "version": 125}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ": ", "step": null, "ts": 1624032073.2903075}]}, "version": 126}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "HTTPSConnectionPool(host='app.neptune.ai', port=443): Max retries exceeded with url: /api/leaderboard/v1/attributes/ping?experimentId=32d7182a-5f64-4db3-8e74-2d4d751534f7 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd32dff49a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))", "step": null, "ts": 1624032073.2969625}]}, "version": 127}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.313843}]}, "version": 128}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\nDuring handling of the above exception, another exception occurred:\n\n", "step": null, "ts": 1624032073.32541}]}, "version": 129}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032073.3323846}]}, "version": 130}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 124, in wrapper\n", "step": null, "ts": 1624032073.3492362}]}, "version": 131}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.371674}]}, "version": 132}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "return func(self, *args, **kwargs)", "step": null, "ts": 1624032073.388603}]}, "version": 133}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.4052265}]}, "version": 134}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 291, in _get_incoming_response\n", "step": null, "ts": 1624032073.4166179}]}, "version": 135}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.4626899}]}, "version": 136}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "inner_response = self.future.result(timeout=timeout)", "step": null, "ts": 1624032073.4630594}]}, "version": 137}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.48015}]}, "version": 138}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/requests_client.py\", line 266, in result\n", "step": null, "ts": 1624032073.4892123}]}, "version": 139}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.4924138}]}, "version": 140}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "response = self.session.send(", "step": null, "ts": 1624032073.50388}]}, "version": 141}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.5186088}]}, "version": 142}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/requests/sessions.py\", line 655, in send\n", "step": null, "ts": 1624032073.5311208}]}, "version": 143}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.543751}]}, "version": 144}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "r = adapter.send(request, **kwargs)", "step": null, "ts": 1624032073.556057}]}, "version": 145}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.5569136}]}, "version": 146}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/requests/adapters.py\", line 516, in send\n", "step": null, "ts": 1624032073.5685296}]}, "version": 147}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.5700102}]}, "version": 148}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise ConnectionError(e, request=request)", "step": null, "ts": 1624032073.581474}]}, "version": 149}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.5934207}]}, "version": 150}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "requests.exceptions", "step": null, "ts": 1624032073.6052313}]}, "version": 151}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ".", "step": null, "ts": 1624032073.6165047}]}, "version": 152}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "ConnectionError", "step": null, "ts": 1624032073.6277733}]}, "version": 153}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ": ", "step": null, "ts": 1624032073.6396122}]}, "version": 154}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "HTTPSConnectionPool(host='app.neptune.ai', port=443): Max retries exceeded with url: /api/leaderboard/v1/attributes/ping?experimentId=32d7182a-5f64-4db3-8e74-2d4d751534f7 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd32dff49a0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))", "step": null, "ts": 1624032073.6460052}]}, "version": 155}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.6668754}]}, "version": 156}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\nDuring handling of the above exception, another exception occurred:\n\n", "step": null, "ts": 1624032073.6926613}]}, "version": 157}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032073.6939807}]}, "version": 158}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/neptune/new/internal/backends/utils.py\", line 51, in wrapper\n", "step": null, "ts": 1624032073.7080128}]}, "version": 159}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.757817}]}, "version": 160}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "return func(*args, **kwargs)", "step": null, "ts": 1624032073.776112}]}, "version": 161}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.787849}]}, "version": 162}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/neptune/new/internal/backends/hosted_neptune_backend.py\", line 229, in ping_run\n", "step": null, "ts": 1624032073.8043907}]}, "version": 163}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.8302708}]}, "version": 164}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self.leaderboard_client.api.ping(experimentId=str(run_uuid)).response().result", "step": null, "ts": 1624032073.8313508}]}, "version": 165}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.846839}]}, "version": 166}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 239, in response\n", "step": null, "ts": 1624032073.86972}]}, "version": 167}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.892884}]}, "version": 168}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "six.reraise(*sys.exc_info())", "step": null, "ts": 1624032073.8993948}]}, "version": 169}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.905459}]}, "version": 170}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/six.py\", line 719, in reraise\n", "step": null, "ts": 1624032073.9125686}]}, "version": 171}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.9210308}]}, "version": 172}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise value", "step": null, "ts": 1624032073.924437}]}, "version": 173}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032073.9367537}]}, "version": 174}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 197, in response\n", "step": null, "ts": 1624032073.9540718}]}, "version": 175}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032073.9823723}]}, "version": 176}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "incoming_response = self._get_incoming_response(timeout)", "step": null, "ts": 1624032074.0047796}]}, "version": 177}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.0109482}]}, "version": 178}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 126, in wrapper\n", "step": null, "ts": 1624032074.0171108}]}, "version": 179}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.0393915}]}, "version": 180}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self.future._raise_connection_error(exception)", "step": null, "ts": 1624032074.053287}]}, "version": 181}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.080939}]}, "version": 182}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 91, in _raise_connection_error\n", "step": null, "ts": 1624032074.1028771}]}, "version": 183}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.1231148}]}, "version": 184}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self._raise_error(BravadoConnectionError, 'ConnectionError', exception)", "step": null, "ts": 1624032074.134875}]}, "version": 185}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.1413903}]}, "version": 186}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 79, in _raise_error\n", "step": null, "ts": 1624032074.1475272}]}, "version": 187}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.1651323}]}, "version": 188}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "six.reraise(", "step": null, "ts": 1624032074.198574}]}, "version": 189}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.2100482}]}, "version": 190}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/six.py\", line 718, in reraise\n", "step": null, "ts": 1624032074.2231238}]}, "version": 191}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.2354915}]}, "version": 192}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise value.with_traceback(tb)", "step": null, "ts": 1624032074.2540414}]}, "version": 193}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.293608}]}, "version": 194}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 124, in wrapper\n", "step": null, "ts": 1624032074.3101087}]}, "version": 195}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.3588285}]}, "version": 196}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "return func(self, *args, **kwargs)", "step": null, "ts": 1624032074.3657198}]}, "version": 197}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.3882077}]}, "version": 198}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/http_future.py\", line 291, in _get_incoming_response\n", "step": null, "ts": 1624032074.4390442}]}, "version": 199}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.4455125}]}, "version": 200}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "inner_response = self.future.result(timeout=timeout)", "step": null, "ts": 1624032074.4673498}]}, "version": 201}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.4955072}]}, "version": 202}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/bravado/requests_client.py\", line 266, in result\n", "step": null, "ts": 1624032074.5130353}]}, "version": 203}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.546812}]}, "version": 204}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "response = self.session.send(", "step": null, "ts": 1624032074.553872}]}, "version": 205}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.5618777}]}, "version": 206}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/requests/sessions.py\", line 655, in send\n", "step": null, "ts": 1624032074.5737648}]}, "version": 207}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.5917315}]}, "version": 208}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "r = adapter.send(request, **kwargs)", "step": null, "ts": 1624032074.6144574}]}, "version": 209}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.6453905}]}, "version": 210}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/requests/adapters.py\", line 516, in send\n", "step": null, "ts": 1624032074.6565526}]}, "version": 211}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.6696036}]}, "version": 212}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "raise ConnectionError(e, request=request)", "step": null, "ts": 1624032074.68165}]}, "version": 213}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.6997254}]}, "version": 214}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "bravado.http_future", "step": null, "ts": 1624032074.7188723}]}, "version": 215}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": ".", "step": null, "ts": 1624032074.7358782}]}, "version": 216}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "RequestsFutureAdapterConnectionError", "step": null, "ts": 1624032074.7473888}]}, "version": 217}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "", "step": null, "ts": 1624032074.7540605}]}, "version": 218}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.7607343}]}, "version": 219}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\nThe above exception was the direct cause of the following exception:\n\n", "step": null, "ts": 1624032074.777063}]}, "version": 220}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "Traceback (most recent call last):\n", "step": null, "ts": 1624032074.7782104}]}, "version": 221}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/threading.py\", line 932, in _bootstrap_inner\n", "step": null, "ts": 1624032074.789542}]}, "version": 222}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.8441732}]}, "version": 223}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self.run()", "step": null, "ts": 1624032074.8554187}]}, "version": 224}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.8666956}]}, "version": 225}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/neptune/new/internal/threading/daemon.py\", line 46, in run\n", "step": null, "ts": 1624032074.8779073}]}, "version": 226}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.921168}]}, "version": 227}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self.work()", "step": null, "ts": 1624032074.938822}]}, "version": 228}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032074.9554486}]}, "version": 229}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/neptune/new/internal/utils/ping_background_job.py\", line 62, in work\n", "step": null, "ts": 1624032074.9868212}]}, "version": 230}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032074.9944718}]}, "version": 231}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self._run.ping()", "step": null, "ts": 1624032075.008052}]}, "version": 232}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032075.0272913}]}, "version": 233}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "  File \"/home/iwona/anaconda3/envs/ProjectML/lib/python3.8/site-packages/neptune/new/run.py\", line 94, in ping\n", "step": null, "ts": 1624032075.039115}]}, "version": 234}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "    ", "step": null, "ts": 1624032075.056383}]}, "version": 235}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "self._backend.ping_run(self._uuid)", "step": null, "ts": 1624032075.0628092}]}, "version": 236}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "\n", "step": null, "ts": 1624032075.0741422}]}, "version": 237}

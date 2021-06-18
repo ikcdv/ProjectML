@@ -1,0 +1,24 @@
+{"obj": {"type": "AssignString", "path": ["sys", "name"], "value": "Untitled"}, "version": 1}
+{"obj": {"type": "AssignString", "path": ["sys", "description"], "value": ""}, "version": 2}
+{"obj": {"type": "AssignString", "path": ["sys", "hostname"], "value": "iwona-VirtualBox"}, "version": 3}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stdout"]}, "version": 4}
+{"obj": {"type": "ClearStringLog", "path": ["monitoring", "stderr"]}, "version": 5}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stderr"], "values": [{"value": "psutil is not installed. Hardware metrics will not be collected.\n", "step": null, "ts": 1624044483.1463351}]}, "version": 6}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b''", "step": null, "ts": 1624044483.1627798}]}, "version": 7}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "b'https://app.neptune.ai/ikarpicka/ProjectML/e/PROJ-11\\n'", "step": null, "ts": 1624044483.1653993}]}, "version": 8}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['PCA', 'StandardScaler', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624044579.833182}]}, "version": 9}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044579.8342693}]}, "version": 10}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['PCA', 'StandardScaler', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624044580.157529}]}, "version": 11}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044580.1581042}]}, "version": 12}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 10000)", "step": null, "ts": 1624044580.313694}]}, "version": 13}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1624044580.314119}]}, "version": 14}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(1250, 10000)", "step": null, "ts": 1624044580.3144903}]}, "version": 15}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": " ", "step": null, "ts": 1624044580.3166468}]}, "version": 16}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "(3750, 1)", "step": null, "ts": 1624044580.3171155}]}, "version": 17}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044580.317448}]}, "version": 18}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['PCA', 'StandardScaler', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624044605.7153823}]}, "version": 19}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044605.715782}]}, "version": 20}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['PCA', 'StandardScaler', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624044605.7590704}]}, "version": 21}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044605.7595007}]}, "version": 22}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "['PCA', 'StandardScaler', 'df_test', 'df_train', 'df_train_labels', 'neptune', 'os', 'pd', 'qgrid', 'run', 'scipy', 'sns', 'train_test_split']", "step": null, "ts": 1624044605.8052514}]}, "version": 23}
+{"obj": {"type": "LogStrings", "path": ["monitoring", "stdout"], "values": [{"value": "\n", "step": null, "ts": 1624044605.8059022}]}, "version": 24}
