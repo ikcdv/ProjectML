@@ -10,3 +10,10 @@ dependencies:
 - pre-commit
 - flake8
 - pip
+
+- pyzmq
+- ipykernel
+- seaborn
+-neptune-client==0.9.4
+- Sklearn
+- qgrid
