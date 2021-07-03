@@ -8,5 +8,5 @@ dependencies:
 - pytest
 - isort
 - pre-commit
-- flake8
 - pip
+- flake8
