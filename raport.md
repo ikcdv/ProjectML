@@ -21,7 +21,7 @@ Each of the columns also has outliers that vary widely. This is also shown by ku
 ### 2.3. Problem
 The collection consists of many columns. No correlation was performed for the data due to multiple columns. Binary classification. The statistics showed that the data for all communities are not homogeneous and balanced. 
 
-# #3. Preprocessing
+## 3. Preprocessing
 ### 3.1 Tools
 The train_data set has been split using test_train_split.StnadardScaler was used due to the presence of outliers. The data was standardized and reduced to two dimensions to show clustering in the graph. The generated graph does not show the correlation between the points.
 
