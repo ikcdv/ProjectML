@@ -35,3 +35,5 @@ The train_data set has been split using test_train_split.StnadardScaler was used
 ### 3.2 Problem
 No division into clusters.
 
+### 4. Models
+
