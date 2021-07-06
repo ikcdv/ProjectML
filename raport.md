@@ -36,4 +36,42 @@ The train_data set has been split using test_train_split.StnadardScaler was used
 No division into clusters.
 
 ### 4. Models
+As exemplary models, we adopted 3 models-LogisticRegression, KNeighborsClassifier and SVC. 
+their results are:
+SVC 0.97956891374985
+LogisticRegression 0.88947956879456
+KNeighborsClassifier 0.96974143584685 
+
+We adopted as the best model SVC
+
+Class-1 
+precision 0.89, 
+recall 0.88,
+f1 0,88,
+support 169
+
+Class 1
+precision 0,93
+recall 0,94
+f1 0,93
+support 341
+
+accuracy
+f1 0.89
+support 498
+
+macro
+precision 0,47 
+recall 0,47 
+f1 0,48
+supoert 498
+
+weighted 
+precision 0,79
+recall 0,83 
+f1 score 0,83 
+support 498
+ 
+
+
 
